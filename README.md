@@ -68,3 +68,4 @@ Dominate the skies, seas, and ground in **War Thunder**. Gain precise targeting,
 | **Stream-safe?**                 | Yes, works with OBS & Discord.                |
 | **Support?**                     | Access via our loader community.             |
 | **Can I modify visuals?**        | Yes, Chams, transparency, and overlays are supported. |
+ 
